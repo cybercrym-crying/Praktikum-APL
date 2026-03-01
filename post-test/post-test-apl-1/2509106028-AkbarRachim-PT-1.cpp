@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-  string userName = "028", userPass = "028", inputName, inputPass, inputUser;
+  string userName = "Akbar Rachim", userPass = "028", inputName, inputPass,
+         inputUser;
   int countAuth = 0;
   float length;
   while (true) {
